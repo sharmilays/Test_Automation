@@ -1,0 +1,12 @@
+{
+  "planIdPfizer": "372468",
+  "sourceSuiteIDEmployerNoExecution": "176577",
+  "parentSuiteIDPfizer": "372469",
+  "newSuiteNameEmployer": "Regression_Automation_Test_Pfizer",
+  "scope": "Automation",
+  "domain": "americas",
+  "workstation": "",
+  "globalUsername": "globalUsername",
+  "globalPassword": "globalPassword",
+  "baseURI": "https://tfs.acsgs.com/tfs/PDSI/HealthAtWork/"
+}

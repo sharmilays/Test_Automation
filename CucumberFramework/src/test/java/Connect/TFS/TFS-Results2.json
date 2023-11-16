@@ -1,0 +1,39 @@
+{
+  "testCaseTitle": "XYZ",
+  "testCase": {
+    "id": 1
+  },
+  "configuration": {
+    "id": 12345,
+    "name": "CMD"
+  },
+  "testPoint": {
+    "id": 1
+  },
+  "state": "Completed",
+  "computerName": "fgf",
+  "resolutionState": "hkk",
+  "priority": 1,
+  "failureType": "Not Known",
+  "automatedTestName": "NA",
+  "automatedTestStorage": "NA",
+  "automatedTestType": "NA",
+  "automatedTestId": "NA",
+  "area": {
+    "name": "NA"
+  },
+  "owner": {
+   "DisplayName": "NA"
+  },
+  "runBy": {
+   "DisplayName": "NA"
+  },
+  "outcome": "Passed",
+  "errorMessage": "NA",
+  "comment": "NA",
+  "associatedBugs": [ 
+     {
+        "id": 30
+      }
+  ]
+}
